@@ -9,3 +9,4 @@ const dayjs = require('dayjs');
 // console.log(result)
 const newDayjs = dayjs().format('YYYY-MM-DD');
 console.log(newDayjs);
+//20240306 test
