@@ -1,0 +1,35 @@
+[
+    {
+        "name": "jack",
+        "age": 35,
+        "gender": "male",
+        "occupation": "software engineer",
+        "interests": [
+            "programming",
+            "music",
+            "reading"
+        ]
+    },
+    {
+        "name": "mary",
+        "age": 28,
+        "gender": "female",
+        "occupation": "teacher",
+        "interests": [
+            "painting",
+            "dancing",
+            "traveling"
+        ]
+    },
+    {
+        "name": "bob",
+        "age": 32,
+        "gender": "male",
+        "occupation": "designer",
+        "interests": [
+            "photography",
+            "travel",
+            "運動"
+        ]
+    }
+]

@@ -1,0 +1,112 @@
+[
+  {
+    "city": "臺北市",
+    "english_name": "Taipei",
+    "status": "Special Municipality",
+    "coordinates": {
+      "latitude": 25.0375,
+      "longitude": 121.5625
+    },
+    "population": 2603150
+  },
+  {
+    "city": "高雄市",
+    "english_name": "Kaohsiung",
+    "status": "Special Municipality",
+    "coordinates": {
+      "latitude": 22.6150,
+      "longitude": 120.2975
+    },
+    "population": 2733964
+  },
+  {
+    "city": "臺中市",
+    "english_name": "Taichung",
+    "status": "Special Municipality",
+    "coordinates": {
+      "latitude": 24.1439,
+      "longitude": 120.6794
+    },
+    "population": 3033885
+  },
+  {
+    "city": "臺南市",
+    "english_name": "Tainan",
+    "status": "Special Municipality",
+    "coordinates": {
+      "latitude": 22.9833,
+      "longitude": 120.1833
+    },
+    "population": 1874686
+  },
+  {
+    "city": "新北市",
+    "english_name": "New Taipei",
+    "status": "Special Municipality",
+    "coordinates": {
+      "latitude": 25.0143,
+      "longitude": 121.4672
+    },
+    "population": 4027964
+  },
+  {
+    "city": "桃園市",
+    "english_name": "Taoyuan",
+    "status": "Special Municipality",
+    "coordinates": {
+      "latitude": 25.0333,
+      "longitude": 121.2833
+    },
+    "population": 2209133
+  },
+  {
+    "city": "彰化縣",
+    "english_name": "Changhua County",
+    "status": "County",
+    "coordinates": {
+      "latitude": 24.0667,
+      "longitude": 120.5833
+    },
+    "population": 1350372
+  },
+  {
+    "city": "雲林縣",
+    "english_name": "Yunlin County",
+    "status": "County",
+    "coordinates": {
+      "latitude": 23.7333,
+      "longitude": 120.5333
+    },
+    "population": 718157
+  },
+  {
+    "city": "嘉義縣",
+    "english_name": "Chiayi County",
+    "status": "County",
+    "coordinates": {
+      "latitude": 23.4500,
+      "longitude": 120.4500
+    },
+    "population": 500944
+  },
+  {
+    "city": "南投縣",
+    "english_name": "Nantou County",
+    "status": "County",
+    "coordinates": {
+      "latitude": 24.1000,
+      "longitude": 121.1333
+    },
+    "population": 519193
+  },
+  {
+    "city": "新竹縣",
+    "english_name": "Hsinchu County",
+    "status": "County",
+    "coordinates": {
+      "latitude": 24.8000,
+      "longitude": 121.0000
+    },
+    "population": 520100
+  }
+]
